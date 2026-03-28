@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0053-maximum-subarray) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2573-find-the-string-with-lcp](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/2573-find-the-string-with-lcp) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0053-maximum-subarray) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -139,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
