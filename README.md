@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0055-jump-game) |
+| [0874-walking-robot-simulation](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0874-walking-robot-simulation) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0874-walking-robot-simulation](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0874-walking-robot-simulation) |
 | [1980-find-unique-binary-string](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1980-find-unique-binary-string) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Backtracking
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0657-robot-return-to-origin) |
+| [0874-walking-robot-simulation](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0874-walking-robot-simulation) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2751-robot-collisions](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
