@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0055-jump-game) |
+| [0396-rotate-function](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0396-rotate-function) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0055-jump-game) |
+| [0396-rotate-function](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0396-rotate-function) |
 | [0874-walking-robot-simulation](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0874-walking-robot-simulation) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0396-rotate-function](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0396-rotate-function) |
 | [1622-fancy-sequence](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1622-fancy-sequence) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
