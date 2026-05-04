@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0055-jump-game) |
 | [0396-rotate-function](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0396-rotate-function) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0048-rotate-image) |
 | [0396-rotate-function](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0788-rotated-digits) |
 | [1622-fancy-sequence](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1622-fancy-sequence) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0048-rotate-image) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
