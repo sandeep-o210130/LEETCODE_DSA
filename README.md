@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0713-subarray-product-less-than-k](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Array
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0303-range-sum-query-immutable) |
 | [0396-rotate-function](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0396-rotate-function) |
+| [0713-subarray-product-less-than-k](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0874-walking-robot-simulation](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0874-walking-robot-simulation) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0303-range-sum-query-immutable) |
+| [0713-subarray-product-less-than-k](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2615-sum-of-distances](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/2906-construct-product-matrix) |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0713-subarray-product-less-than-k](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3488-closest-equal-element-queries) |
