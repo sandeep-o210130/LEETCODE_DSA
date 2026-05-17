@@ -1,19 +1,22 @@
 class Solution {
 public:
-    bool anss(vector<int>& arr,int start,vector<int>& vis){
-        if(arr[start]==0) return true;
-        vis[start]=1;
-        bool temp = false;
-        if(((start-arr[start])>=0) && (vis[start-arr[start]]==0)){
-            if(anss(arr,start-arr[start],vis)) return true;
-        }
-        if(((start+arr[start])<arr.size()) && (vis[start+arr[start]]==0)){
-            if(anss(arr,start+arr[start],vis)) return true;
-        }
-        return false;
-    }
     bool canReach(vector<int>& arr, int start) {
         vector<int> vis(arr.size(),0);
-        return anss(arr,start,vis);
+        queue<int> q;
+        q.push(start);
+        while(!q.empty()){
+            int ele = q.front();
+            q.pop();
+            if(!arr[ele]) return true;
+            if((ele+arr[ele])<arr.size() && (!vis[ele+arr[ele]])){
+                q.push(ele+arr[ele]);
+                vis[ele+arr[ele]]=1;
+            }
+           if((ele-arr[ele])>=0 && (!vis[ele-arr[ele]])){
+                q.push(ele-arr[ele]);
+                vis[ele-arr[ele]]=1;
+           } 
+        }
+        return false;
     }
 };
