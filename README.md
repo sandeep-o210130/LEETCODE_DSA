@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0874-walking-robot-simulation](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0874-walking-robot-simulation) |
 | [1306-jump-game-iii](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0874-walking-robot-simulation](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0874-walking-robot-simulation) |
+| [1345-jump-game-iv](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1345-jump-game-iv) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1980-find-unique-binary-string](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1980-find-unique-binary-string) |
 | [2615-sum-of-distances](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/2615-sum-of-distances) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1306-jump-game-iii](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
