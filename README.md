@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0055-jump-game) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0001-two-sum) |
 | [0874-walking-robot-simulation](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0874-walking-robot-simulation) |
 | [1345-jump-game-iv](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1345-jump-game-iv) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
