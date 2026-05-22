@@ -11,7 +11,7 @@ public:
 
             if(nums[mid]==target) return mid;
 
-            if(nums[mid]<nums[n] && target<=nums[n]){
+            if(nums[mid]<nums[n] && target<nums[n]){
 
                 if(target<nums[mid])
                     end=mid-1;
@@ -19,7 +19,7 @@ public:
                     beg=mid+1;
             }
 
-            else if(nums[mid]>=nums[n] && target>nums[n]){
+            else if(nums[mid]>nums[n] && target>nums[n]){
 
                 if(target<nums[mid])
                     end=mid-1;
