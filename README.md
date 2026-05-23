@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-find-the-string-with-lcp](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/2573-find-the-string-with-lcp) |
 | [2833-furthest-point-from-origin](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/2833-furthest-point-from-origin) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3931-check-adjacent-digit-differences](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3931-check-adjacent-digit-differences) |
 ## Dynamic Programming
 |  |
 | ------- |
