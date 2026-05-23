@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3488-closest-equal-element-queries](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3932-count-k-th-roots-in-a-range](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3932-count-k-th-roots-in-a-range) |
 ## Greedy
 |  |
 | ------- |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3783-mirror-distance-of-an-integer) |
+| [3932-count-k-th-roots-in-a-range](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3932-count-k-th-roots-in-a-range) |
 ## Design
 |  |
 | ------- |
