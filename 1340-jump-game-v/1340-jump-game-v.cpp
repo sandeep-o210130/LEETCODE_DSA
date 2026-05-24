@@ -2,7 +2,8 @@ class Solution {
 public:
     int solve(vector<int>& arr,int d,int i,vector<int>& vis,vector<int>& dp){
         int big=-1;
-        if(dp[i]!=0) return dp[i];
+        if(dp[i]!=-1) return dp[i];
+        dp[i]=0;
         for(int j=i-1;j>=i-d;j--){
             int ans=0;
             if(j>=0) big = max(big,arr[j]);
@@ -36,7 +37,7 @@ public:
         int n = arr.size();
         vector<int>vis(n,0);
         int ans=0;
-        vector<int> dp(n,0);
+        vector<int> dp(n,-1);
         for(int i=0;i<n;i++){
             ans = max(ans,solve(arr,d,i,vis,dp));
         }
