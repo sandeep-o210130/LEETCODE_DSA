@@ -1,14 +1,15 @@
 class Solution {
 public:
     struct Trie{
-        unordered_map<char,Trie*> arr;
+        Trie* arr[26];
         int idx;
         Trie(){
+            for(int i=0;i<26;i++) arr[i]=NULL;
             idx=-1;
         }
         ~Trie(){
-            for(auto &p : arr){
-                if(p.second != NULL) delete p.second;
+            for(int i=0;i<26;i++){
+                if(arr[i]!=NULL) delete arr[i];
             }
         }
     };
@@ -25,8 +26,8 @@ public:
             Trie* node = root;
             update(node,wordsContainer,i);
             for(int j=wordsContainer[i].size()-1;j>=0;j--){
-                int a = wordsContainer[i][j];
-                if(node->arr.find(a)==node->arr.end())
+                int a = wordsContainer[i][j]-'a';
+                if(node->arr[a]==NULL)
                     node->arr[a] = new Trie();
                 node = node->arr[a];
                 update(node,wordsContainer,i);
@@ -35,8 +36,8 @@ public:
         for(int i=0;i<wordsQuery.size();i++){
             Trie * node = root;
             for(int j = wordsQuery[i].size()-1;j>=0;j--){
-                int a = wordsQuery[i][j];
-                if(node->arr.find(a)==node->arr.end()) break;
+                int a = wordsQuery[i][j]-'a';
+                if(node->arr[a]==NULL) break;
                 node = node->arr[a];
             }
             ans[i] = node->idx;
