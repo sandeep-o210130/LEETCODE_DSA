@@ -10,48 +10,31 @@
  * right(right) {}
  * };
  */
-const int N = 100001;
-bitset<N> seen = 0;
-int parent[N] = {0};//parent val
-TreeNode* node[N];// array for TreeNode*
-TreeNode POOL[N];// array for TreeNode
-int ptr=0;
+
 class Solution {
 public:
-    static TreeNode* createBinaryTree(vector<vector<int>>& descriptions) {
-        int root=-1;
-        ptr=0;
-        int M=0;
-
-        for (auto& d : descriptions) {
-            int x = d[0], y = d[1], l = d[2];
-            M=max(M, max(x, y));
-            if (!seen[x]) {
-                node[x] = new (&POOL[ptr++]) TreeNode(x);
-                seen[x]=1;
-                if (parent[x] == 0)
-                    root = x;
+    TreeNode* createBinaryTree(vector<vector<int>>& descriptions) {
+        unordered_map<int,TreeNode*> mpp1;
+        unordered_map<int,int> mpp2;
+        for(auto i:descriptions){
+            TreeNode *p,*c;
+            if(mpp1.find(i[0])!=mpp1.end()) p = mpp1[i[0]];
+            else{
+                p = new TreeNode(i[0]);
+                mpp1[i[0]]=p;
             }
-            if (!seen[y]) {
-                node[y] = new (&POOL[ptr++]) TreeNode(y);
-                seen[y] = 1;
+            if(mpp1.find(i[1])!=mpp1.end()) c = mpp1[i[1]];
+            else{
+                c = new TreeNode(i[1]);
+                mpp1[i[1]]=c;
             }
-            parent[y] = x;
-            if (l)
-                node[x]->left=node[y];
-            else
-                node[x]->right=node[y];
+            if(i[2]) p->left=c;
+            else p->right=c;
+            mpp2[i[1]]=1;
         }
-        while (parent[root] != 0)// find real root
-            root = parent[root];
-        auto* ans=node[root];
-
-        for (auto& d : descriptions) {
-            int x = d[0], y = d[1];
-            seen[x]= seen[y] = 0;
-            parent[x] = parent[y] = 0;
+        for(auto i:descriptions){
+            if(mpp2.find(i[0])==mpp2.end()) return mpp1[i[0]];
         }
-        
-        return ans;
+        return nullptr;
     }
 };
