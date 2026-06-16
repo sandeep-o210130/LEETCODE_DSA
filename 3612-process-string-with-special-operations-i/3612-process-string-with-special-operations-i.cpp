@@ -1,30 +1,51 @@
 class Solution {
 public:
     string processStr(string s) {
-        int i1=0;
-        string ans="";
-        for(int i=0;i<s.size();i++){
-            if(!ans.empty()){
-                if(s[i]=='*'){
-                    if(i1) ans.erase(ans.begin());
-                    else ans.pop_back();
-                }
-                else if(s[i]=='#'){
-                    cout<<ans<<endl;
-                    ans+=ans;
-                }
-                else if(s[i]=='%'){
-                    i1=i1+1;
-                    i1=i1%2;
+        deque<char> dq;
+        bool rev = false;
+
+        for (char c : s) {
+            if ('a' <= c && c <= 'z') {
+                if (!rev)
+                    dq.push_back(c);
+                else
+                    dq.push_front(c);
+            }
+            else if (c == '*') {
+                if (!dq.empty()) {
+                    if (!rev)
+                        dq.pop_back();
+                    else
+                        dq.pop_front();
                 }
             }
-            if(s[i]>='a' && s[i]<='z'){
-                if(!i1) ans+=s[i];
-                else ans=s[i]+ans;
+            else if (c == '%') {
+                rev = !rev;
             }
-            cout<<ans<<endl;
-        }   
-        if(i1) reverse(ans.begin(),ans.end());
+            else if (c == '#') {
+                deque<char> cur = dq;
+
+                if (!rev) {
+                    for (char ch : cur)
+                        dq.push_back(ch);
+                } else {
+                    for (auto it = cur.rbegin(); it != cur.rend(); ++it)
+                        dq.push_front(*it);
+                }
+            }
+        }
+
+        string ans;
+        ans.reserve(dq.size());
+
+        if (!rev) {
+            for (char ch : dq)
+                ans.push_back(ch);
+        } else {
+            for (auto it = dq.rbegin(); it != dq.rend(); ++it)
+                ans.push_back(*it);
+        }
+
         return ans;
     }
 };
