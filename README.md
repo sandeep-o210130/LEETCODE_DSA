@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3121-count-the-number-of-special-characters-ii](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3838-weighted-word-mapping) |
 | [3931-check-adjacent-digit-differences](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3931-check-adjacent-digit-differences) |
 ## Dynamic Programming
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2751-robot-collisions](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3612-process-string-with-special-operations-i](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3614-process-string-with-special-operations-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3838-weighted-word-mapping](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3838-weighted-word-mapping) |
 ## Divide and Conquer
