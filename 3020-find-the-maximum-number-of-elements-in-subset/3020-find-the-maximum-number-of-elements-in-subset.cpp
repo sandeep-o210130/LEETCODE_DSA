@@ -1,34 +1,18 @@
 class Solution {
 public:
     int maximumLength(vector<int>&nums) {
-        unordered_map<int,int>mp;
-        for(int x:nums)mp[x]++;
-        int ans=1;
-
-        for(int i=0;i<nums.size();i++){
-            int x=nums[i];
-            if(x==1){
-                if(mp[x]%2!=0)ans=max(ans,mp[x]);
-                else ans=max(ans,mp[x]-1);
+        unordered_map<long,int> mpp;
+        long long ones=0;
+        for(auto i: nums) (i==1)?ones++:mpp[i]++;
+        long long maxx=0;
+        for(auto [i,j]:mpp){
+            long c=1,i1=i;
+            while(mpp[i1]>=2 && mpp.count(i1*i1)){
+                c+=2;
+                i1*=i1;
             }
-            else{
-                int ct=0;
-                if(mp[x]>=2){
-                    long long curr=x;
-                    while(curr<=INT_MAX && mp.find((int)curr)!=mp.end()){
-                        if(mp[(int)curr]==1){
-                            ct++;
-                            break;
-                        }
-                        ct++;
-                        if(curr>LLONG_MAX/curr)break;
-                        curr*=curr;
-                    }
-                }
-                ans=max(ans,ct*2-1);
-            }
+            maxx=max((long long)maxx,(long long)c);
         }
-
-        return ans;
+        return max((long long)maxx,(long long) ones-!(ones&1));
     }
 };
