@@ -1,50 +1,57 @@
 class Solution {
 public:
-    bool findSafeWalk(vector<vector<int>>& grid, int health) {
+    int m, n;
+    int dir[4][2] = {{1,0},{-1,0},{0,1},{0,-1}};
 
-        int m = grid.size();
-        int n = grid[0].size();
+    bool dfs(vector<vector<int>>& grid,
+             vector<vector<vector<int>>>& dp,
+             vector<vector<int>>& vis,
+             int i, int j, int health) {
 
-        vector<vector<int>> best(m, vector<int>(n, -1));
+        health -= grid[i][j];
 
-        queue<tuple<int,int,int>> q;
+        if (health <= 0)
+            return false;
 
-        int startHealth = health - grid[0][0];
-        if (startHealth <= 0) return false;
+        if (i == m - 1 && j == n - 1)
+            return true;
 
-        q.push({0, 0, startHealth});
-        best[0][0] = startHealth;
+        if (dp[i][j][health] != -1)
+            return dp[i][j][health];
 
-        int dir[4][2] = {{1,0},{-1,0},{0,1},{0,-1}};
+        vis[i][j] = 1;
 
-        while (!q.empty()) {
+        for (auto &d : dir) {
+            int ni = i + d[0];
+            int nj = j + d[1];
 
-            auto [x, y, h] = q.front();
-            q.pop();
+            if (ni >= 0 && ni < m &&
+                nj >= 0 && nj < n &&
+                !vis[ni][nj]) {
 
-            if (x == m - 1 && y == n - 1)
-                return true;
-
-            for (auto &d : dir) {
-
-                int nx = x + d[0];
-                int ny = y + d[1];
-
-                if (nx < 0 || nx >= m || ny < 0 || ny >= n)
-                    continue;
-
-                int nh = h - grid[nx][ny];
-
-                if (nh <= 0)
-                    continue;
-
-                if (nh > best[nx][ny]) {
-                    best[nx][ny] = nh;
-                    q.push({nx, ny, nh});
+                if (dfs(grid, dp, vis, ni, nj, health)) {
+                    vis[i][j] = 0;
+                    return dp[i][j][health] = true;
                 }
             }
         }
 
-        return false;
+        vis[i][j] = 0;
+        return dp[i][j][health] = false;
+    }
+
+    bool findSafeWalk(vector<vector<int>>& grid, int health) {
+
+        m = grid.size();
+        n = grid[0].size();
+
+        vector<vector<vector<int>>> dp(
+            m,
+            vector<vector<int>>(n, vector<int>(health + 1, -1))
+        );
+
+        vector<vector<int>> vis(m, vector<int>(n, 0));
+
+        return dfs(grid, dp, vis, 0, 0, health);
     }
 };
