@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0396-rotate-function) |
 | [0713-subarray-product-less-than-k](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0874-walking-robot-simulation](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0874-walking-robot-simulation) |
+| [1288-remove-covered-intervals](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1340-jump-game-v) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1288-remove-covered-intervals](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1288-remove-covered-intervals) |
 | [1340-jump-game-v](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1340-jump-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
