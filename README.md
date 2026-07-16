@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3742-maximum-path-score-in-a-grid](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3838-weighted-word-mapping](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3838-weighted-word-mapping) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3933-largest-local-values-in-a-matrix-ii](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3933-largest-local-values-in-a-matrix-ii) |
 ## Hash Table
 |  |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3783-mirror-distance-of-an-integer) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3932-count-k-th-roots-in-a-range](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3932-count-k-th-roots-in-a-range) |
 ## Design
 |  |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -396,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3643-flip-square-submatrix-vertically) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
 |  |
 | ------- |
@@ -420,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3614-process-string-with-special-operations-ii](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3614-process-string-with-special-operations-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3838-weighted-word-mapping](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3838-weighted-word-mapping) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -487,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Indexed Tree
 |  |
 | ------- |
