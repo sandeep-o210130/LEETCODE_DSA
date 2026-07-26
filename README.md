@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0303-range-sum-query-immutable) |
 | [0396-rotate-function](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0396-rotate-function) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0874-walking-robot-simulation](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0874-walking-robot-simulation) |
 | [1260-shift-2d-grid](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1260-shift-2d-grid) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0048-rotate-image) |
 | [0396-rotate-function](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0396-rotate-function) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0788-rotated-digits) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1622-fancy-sequence](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1622-fancy-sequence) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1340-jump-game-v) |
