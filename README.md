@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/2573-find-the-string-with-lcp) |
 | [2833-furthest-point-from-origin](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/2833-furthest-point-from-origin) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3093-longest-common-suffix-queries](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2573-find-the-string-with-lcp](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/2573-find-the-string-with-lcp) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
