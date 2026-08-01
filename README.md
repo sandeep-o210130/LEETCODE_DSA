@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0055-jump-game) |
 | [0396-rotate-function](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0788-rotated-digits) |
 | [1301-number-of-paths-with-max-score](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0303-range-sum-query-immutable) |
 | [0396-rotate-function](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0874-walking-robot-simulation](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0874-walking-robot-simulation) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0048-rotate-image) |
 | [0396-rotate-function](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0788-rotated-digits) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -565,4 +568,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
