@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1340-jump-game-v) |
+| [1406-stone-game-iii](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1406-stone-game-iii) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1871-jump-game-vii](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1406-stone-game-iii](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1406-stone-game-iii](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1406-stone-game-iii) |
 | [1622-fancy-sequence](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1622-fancy-sequence) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -580,4 +583,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
