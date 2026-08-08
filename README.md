@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3093-longest-common-suffix-queries](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3225-maximum-score-from-grid-operations](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3225-maximum-score-from-grid-operations) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2573-find-the-string-with-lcp](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/2573-find-the-string-with-lcp) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -444,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/2540-minimum-common-value) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3643-flip-square-submatrix-vertically) |
