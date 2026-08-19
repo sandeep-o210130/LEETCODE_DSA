@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1345-jump-game-iv) |
+| [1386-cinema-seat-allocation](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1386-cinema-seat-allocation) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1406-stone-game-iii](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1386-cinema-seat-allocation](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1386-cinema-seat-allocation) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1980-find-unique-binary-string](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1980-find-unique-binary-string) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1009-complement-of-base-10-integer) |
+| [1386-cinema-seat-allocation](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1386-cinema-seat-allocation) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0055-jump-game) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1386-cinema-seat-allocation](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1386-cinema-seat-allocation) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1833-maximum-ice-cream-bars](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1833-maximum-ice-cream-bars) |
