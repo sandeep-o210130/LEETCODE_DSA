@@ -1,13 +1,16 @@
 class Solution {
 public:
     bool uniformArray(vector<int>& nums1) {
-        long long minne=LLONG_MAX,minno=LLONG_MAX;
-        for(auto i:nums1){
-            if(i%2) minno = min((long long)minno,(long long) i);
-            else minne = min((long long) minne,(long long) i);
+        bool temp=false;
+        int t=INT_MAX;
+        for(int i=0;i<nums1.size();i++){
+            if(nums1[i]&1){
+                temp=true;
+                t=min(t,nums1[i]);
+            }
         }
-        if(minne==LLONG_MAX || minno==LLONG_MAX) return true;
-        else if(minne>minno) return true;
-        return false;
+        if(t==INT_MAX) return true;
+        for(auto i:nums1) if(i<t) return false;
+        return true;
     }
 };
