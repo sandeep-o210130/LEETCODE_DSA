@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0115-distinct-subsequences) |
 | [0657-robot-return-to-origin](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0796-rotate-string) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0055-jump-game) |
 | [0115-distinct-subsequences](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0115-distinct-subsequences) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0022-generate-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1096-brace-expansion-ii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1980-find-unique-binary-string) |
@@ -758,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
