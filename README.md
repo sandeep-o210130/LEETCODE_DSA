@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1386-cinema-seat-allocation) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1833-maximum-ice-cream-bars](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1833-maximum-ice-cream-bars) |
@@ -624,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2751-robot-collisions](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/2751-robot-collisions) |
@@ -785,5 +788,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
