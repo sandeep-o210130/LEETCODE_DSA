@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1871-jump-game-vii](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2747-count-zero-request-servers](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/2747-count-zero-request-servers) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-find-the-string-with-lcp](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/2573-find-the-string-with-lcp) |
 | [2574-left-and-right-sum-differences](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/2615-sum-of-distances) |
+| [2747-count-zero-request-servers](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/2747-count-zero-request-servers) |
 | [2751-robot-collisions](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/2751-robot-collisions) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/2784-check-if-array-is-good) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2540-minimum-common-value](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/2615-sum-of-distances) |
+| [2747-count-zero-request-servers](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/2747-count-zero-request-servers) |
 | [2784-check-if-array-is-good](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/2784-check-if-array-is-good) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -522,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2463-minimum-total-distance-traveled](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/2463-minimum-total-distance-traveled) |
+| [2747-count-zero-request-servers](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/2747-count-zero-request-servers) |
 | [2751-robot-collisions](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/2751-robot-collisions) |
 | [2784-check-if-array-is-good](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/2784-check-if-array-is-good) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
