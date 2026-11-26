@@ -474,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3360-stone-removal-game](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -632,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2751-robot-collisions](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/sandeep-o210130/LEETCODE_DSA/tree/master/3614-process-string-with-special-operations-ii) |
